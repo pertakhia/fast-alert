@@ -1,6 +1,6 @@
 {
   "name": "fast-alert",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "fast alert which can modify ",
   "main": "lib/index.js",
   "scripts": {

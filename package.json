@@ -1,6 +1,6 @@
 {
   "name": "fast-alert",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "fast alert which can modify ",
   "main": "lib/index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "alert",
     "custum"
   ],
+  "types": "lib/index.d.ts",
   "author": "Shota pertakhia",
   "license": "ISC"
 }

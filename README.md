@@ -19,7 +19,7 @@ import showAlert from "fast-alert";
 showAlert('This is a red alert at the top');
 
 // Example with custom values
-showAlert('This is a red alert at the top', 'white', 'red', 'top', )
+showAlert('This is a red alert at the top', 'white', 'red', 'top', 1000 )
 
 
 /**
